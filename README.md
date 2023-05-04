@@ -6,4 +6,4 @@ Try it. It's not typcle game~
 
 <h2>1.git clone https://github.com/DmitroPodolsky/python_game.git</h2>
 
-<h2>2.in python_game/new_fight run the comand: "python start.py</h2>
+<h2>2.in python_game/new_fight run the comand: "python start.py"</h2>
